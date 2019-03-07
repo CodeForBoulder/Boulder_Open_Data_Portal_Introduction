@@ -7,7 +7,7 @@ We will mainly work in Python and will help get you set up below. If you work in
 
 1. What is Public Open Data?
 2. What is Data Analytics?
-3. I'm in, how do I get started with Python?
+3. I'm in, I want to help, how do I get started with Python?
     - I just want to start looking at numbers - Google Python
     - I really want to learn more about Python and install Anaconda/Python Notebooks on my computer
 4. What are Python Libraries? What are the main Libraries to know?
