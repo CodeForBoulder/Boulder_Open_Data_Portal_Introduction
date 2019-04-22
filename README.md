@@ -11,7 +11,7 @@ We will mainly work in Python and will help get you set up below. If you work in
     - I just want to start looking at numbers - Colaboratory (Google Python)
     - I really want to learn more about Python and install Anaconda/Python Notebooks on my computer
 4. What are Python Libraries? What are the main Libraries to know?
-5. Sample Python Notebook with starter code
+5. Sample Python Notebooks with starter code
 6. This was fun! Where do I learn more?
     - Python
     - Statistics
